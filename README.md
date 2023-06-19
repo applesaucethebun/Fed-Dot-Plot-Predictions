@@ -4,4 +4,4 @@ Dataset of Federal Reserve Dot Plot predictions (for FFR), for quarterly meeting
 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 
 
-Note - there are some discrepancies over the years in the data (such as increments shifting from .25 to .125), & not all plots may add up to 19 (in the case of no prediction).
+Note - there are some discrepancies over the years in the data (such as increments shifting from .25 to .125 in Q3 2014), & not all plots may add up to 19 (in the case of no prediction).
