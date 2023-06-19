@@ -1,5 +1,5 @@
 # Fed-Dot-Plot-Predictions
-Dataset of Federal Reserve Dot Plot predictions (for FFR), for quarterly meetings in "Summary of Economic Projections" (Jan 2012-June 2023). Charts sourced directly from projection materials that can be found here.
+Historical dataset of Federal Reserve Dot Plot predictions (for FFR), for quarterly meetings at each "Summary of Economic Projections" (Jan 2012-June 2023). Charts sourced directly from projection materials that can be found here.
 
 FOMC Calendar - https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 
